@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  <link rel="stylesheet" href="main.css">
+  <title>Price Component with Toggle</title>
+
+ 
+</head>
+<body>
+ <h1>Our Pricing</h1>
+ <div class='flex'>
+    
+  <div id="toggle-container">
+  <p id="left-para">
+    Annually
+  </p>
+  <label for="toggle" class="switch">
+    <input  type="checkbox" name="toggle"  id="toggle"/>
+  <span class="slider round"></span>
+  </label>
+  <p id="right-para">Monthly</p>
+  </div>
+
+  <div id="price-cards">
+
+    <div class="box-card">
+      <h3>Basic</h3>
+      <p class='annualy-value'>&dollar;199.99</p>
+      <p class='month-value'> &dollar;19.99</p>
+
+      <div class="unlist"> 
+      <ul>
+        <div class="divider"></div>
+        <li>500 GB Storage</li>
+        <div class="divider"></div>
+        <li>2 Users Allowed</li>
+        <div class="divider"></div>
+        <li>Send up to 3 GB</li>
+        <div class="divider"></div>
+      </ul>
+      </div>
+      <button class="learn-more">Learn More</button>
+    </div>
+
+    <div id="violet" class="box-card">
+      <h3>Professional</h3>
+      <p class='annualy-value'>&dollar;249.99 </p>
+      <p class='month-value'> &dollar;24.99</p>
+      <div class="unlist">  
+      <ul>
+        <div class="divider"></div>
+        <li>1 TB Storage</li>
+        <div class="divider"></div>
+        <li>5 Users Allowed</li>
+        <div class="divider"></div>
+        <li>Send up to 10 GB</li>
+        <div class="divider"></div>
+      </ul>
+    </div>
+
+    <!-- div > p ---   all p tags, one level deep in div -->
+
+      <button class="learn-more">Learn More</button>
+    </div>
+    
+    <div class="box-card">
+      <h3>Master</h3>
+      <p class='annualy-value'> &dollar;399.99</p>
+      <p class='month-value'> &dollar;39.99</p>
+      <div class="unlist">  
+      <ul>
+        <div class="divider"></div>
+        <li>2 TB Storage</li>
+        <div class="divider"></div>
+        <li> 10 Users Allowed</li>
+          
+          <div class="divider"></div>
+        <li>Send up to 20 GB</li>
+        <div class="divider"></div>
+      </ul>
+    </div>
+      <button class="learn-more">Learn More</button>
+    </div>
+  </div>
+</div>
+  <!-- &dollar;19.99
+  &dollar;24.99
+  &dollar;39.99 -->
+  <script src="main.js"></script>
+</body>
+</html>
+  
+
+
+
+ 
+
+
+  
+  
