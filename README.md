@@ -1,4 +1,4 @@
-# Flexbox-Price-Cards-  
+# Flexbox-Price-Cards 
 
 <b>Responsive Card Component with animations based on figma design.</b><br>
 - Mobile: 375px <br>
