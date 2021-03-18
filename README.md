@@ -1,6 +1,9 @@
 # Flexbox-Price-Cards-  
 
-![Screenshot](toggle-price-component.png)
+Technologies:
+1.Responsive Layouts - Flexbox
+2.Toggle checkbox - Javascript & CSS3
+3.Animation - CSS3
 
 
 
