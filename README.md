@@ -6,8 +6,8 @@
 
 🛠Technologies:<br>
 1. Responsive Layouts - <b>Flexbox<b><br>
-2. Toggle checkbox - Javascript & CSS3<br>
-3. Animation - CSS3<br>
+2. Toggle checkbox - <b>Javascript & CSS3<b><br>
+3. Animation - <b>CSS3<b><br>
 
 
 
