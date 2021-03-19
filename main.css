@@ -80,7 +80,6 @@ h3 {
     align-items: center;
 }
 
-
 #toggle-container {
     display: flex;
     justify-content: space-between;
@@ -88,8 +87,6 @@ h3 {
     height: 34px;
     margin-bottom: 77px;
 }
-
-
 
 #toggle-container p {
     color: hsl(234, 14%, 74%);
