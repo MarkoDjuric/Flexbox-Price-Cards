@@ -132,4 +132,24 @@ h3 {
     letter-spacing: 2px;
     cursor: pointer;
 }
+
+
+#unlist {
+    width: 365px;
+    height: 160px;
+}
+
+ul li {
+    position: relative;
+    padding-bottom: 18px;
+    margin-top: 18px;
+    color: hsl(233, 13%, 49%);
+}
+
+.divider {
+    margin: 0;
+    height: 1px;
+    width: 310px;
+    background-color: hsl(234, 14%, 74%);
+}
    
