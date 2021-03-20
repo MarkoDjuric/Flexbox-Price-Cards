@@ -106,4 +106,30 @@ h3 {
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
 }
+
+  
+
+.box-card p {
+    margin-bottom: 0;
+    margin-top: 39px;
+    font-size: 54px;
+    padding-bottom: 38px;
+    color: hsl(232, 13%, 33%);
+}
+
+.box-card button {
+    background-image: linear-gradient( to right, hsl(236, 72%, 79%), hsl(237, 63%, 64%));
+    font-family: 'Montserrat', sans-serif;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    text-transform: uppercase;
+    width: 317px;
+    height: 43px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    cursor: pointer;
+}
    
