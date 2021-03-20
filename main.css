@@ -152,4 +152,28 @@ ul li {
     width: 310px;
     background-color: hsl(234, 14%, 74%);
 }
+
+
+#violet {
+    background-image: linear-gradient( to right, hsl(236, 72%, 79%), hsl(237, 63%, 64%));
+}
+
+#violet h3 {
+    color: #fff;
+}
+
+#violet li {
+    color: #fff;
+}
+
+#violet p {
+    color: #fff;
+}
+
+#violet button {
+    background-image: none;
+    background-color: #fff;
+    color: hsl(237, 63%, 64%);
+}
+
    
