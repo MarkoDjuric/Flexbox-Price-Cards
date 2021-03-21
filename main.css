@@ -106,9 +106,7 @@ h3 {
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
 }
-
   
-
 .box-card p {
     margin-bottom: 0;
     margin-top: 39px;
@@ -133,7 +131,6 @@ h3 {
     cursor: pointer;
 }
 
-
 #unlist {
     width: 365px;
     height: 160px;
@@ -152,7 +149,6 @@ ul li {
     width: 310px;
     background-color: hsl(234, 14%, 74%);
 }
-
 
 #violet {
     background-image: linear-gradient( to right, hsl(236, 72%, 79%), hsl(237, 63%, 64%));
@@ -175,7 +171,6 @@ ul li {
     background-color: #fff;
     color: hsl(237, 63%, 64%);
 }
-
 
 input {
     opacity: 0;
