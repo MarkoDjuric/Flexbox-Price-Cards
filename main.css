@@ -209,4 +209,30 @@ input {
     -webkit-transition: .4s;
     transition: .4s;
 }
+
+input:checked+.slider {
+    background-color: hsl(236, 72%, 79%);
+}
+
+input:checked+.slider:before {
+    -webkit-transform: translateX(26px);
+    -ms-transform: translateX(26px);
+    transform: translateX(26px);
+}
+
+/* Rounded sliders */
+
+.slider.round {
+    border-radius: 45px;
+}
+
+.slider.round:before {
+    border-radius: 50%;
+}
+
+/* month paragraphs */
+
+.month-value {
+    display: none;
+}
    
